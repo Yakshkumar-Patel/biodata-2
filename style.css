@@ -1,0 +1,194 @@
+.slider-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.heading h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0px !important;
+    padding: 0px 10px;
+      font-family: "Poppins", sans-serif;
+  
+}
+
+section#upper-section .row {
+    padding: 0px 0px 0px;
+    border-bottom: 1px solid;
+    margin: 0px 0px;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+ul.list-content-style {
+    border-left: 1px solid;
+    border-right: 1px solid;
+    margin: 0px;
+}
+
+section#upper-section .heading {
+    border-right: 1px solid;
+    padding: 8px 0px;
+  
+}
+section#upper-section .main-content ul.list-content-style {
+    list-style: none;
+    padding: 15px 40px;
+}
+
+section#upper-section .main-content ul.list-content-style li {
+    padding: 8px 0px;
+}
+h2 {
+    margin: 0px;
+      font-family: "Poppins", sans-serif;
+}
+section#second-section .row.main-row, section#img-slider-sec .row {
+    border: 1px solid;
+    margin: 0px;
+}
+
+section#img-slider-sec h2 {
+    text-align: center;
+    padding: 10px 0px;
+}
+.col-3 {
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+
+.info-heading {
+    padding: 10px 0px;
+}
+
+.info-heading h2 {
+    font-size: 26px;
+}
+section#img-slider-sec h2 {
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 30px;
+      font-family: "Poppins", sans-serif;
+}
+
+table.table.table-bordered.family-table {
+    margin: 0px;
+}
+
+section#second-section .container-fluid {
+    padding: 0px;
+}
+
+section#second-section .container h3 {
+    padding: 10px 50px;
+    border: 1px solid;
+    margin: 0px;
+      font-family: "Poppins", sans-serif;
+}
+
+section#second-section th {
+    font-size: 25px;
+    padding: 10px 20px;
+    border-right: 1px solid;
+        border-left: 1px solid;
+      font-family: "Poppins", sans-serif;
+      font-weight: 500;
+}
+
+section#second-section td {
+    padding: 30px 20px;
+}
+
+section#second-section td {
+    border: 1px solid;
+}
+
+.main-content.slider.slick-initialized.slick-slider.slick-dotted {
+    width: 100%;
+    margin: 0px auto;
+    padding: 20px 20px;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+
+
+@media (max-width: 1550px)
+{
+}
+@media (max-width: 1440px)
+{
+}
+@media (max-width: 1366px)
+{
+}
+@media (max-width: 1336px)
+{
+}
+@media (max-width: 1280px)
+{
+}
+@media (max-width: 1024px)
+{
+}
+@media (max-width: 800px)
+{
+}
+@media (max-width: 768px)
+{
+
+.heading h1 {
+    font-size: 20px;
+}
+section#img-slider-sec h2 {
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 20px;
+}
+section#second-section th {
+    font-size: 18px;
+}
+
+
+
+}
+@media (max-width: 480px)
+{
+
+.col-lg-2.col-sm-12 {
+    padding: 0px !important;
+}
+    section#second-section .container-fluid h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+.col-lg-4.col-sm-12 {
+    padding: 0px;
+}
+section#second-section td {
+    font-size: 12px;
+    padding: 20px 10px;
+}
+section#second-section th {
+        font-size: 16px;
+    }
+ul.list-content-style span.small-txt {
+    font-size: 12px;
+}
+
+    
+
+}
+@media (max-width: 425px)
+{
+}
+@media (max-width: 380px)
+{
+}
+@media (max-width: 320px)
+{
+}
+@media (max-width: 280px)
+{
+}
