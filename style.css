@@ -179,7 +179,10 @@ section#second-section th {
 ul.list-content-style span.small-txt {
     font-size: 12px;
 }
-
+.main-content.slider.slick-initialized.slick-slider {
+    padding: 10px 10px;
+    border: 1px solid;
+}
     
 
 }
