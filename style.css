@@ -173,8 +173,9 @@ section#second-section td {
     font-size: 12px;
     padding: 20px 10px;
 }
-section#second-section th {
+    section#second-section th {
         font-size: 16px;
+        padding: 5px 10px;
     }
 ul.list-content-style span.small-txt {
     font-size: 12px;
