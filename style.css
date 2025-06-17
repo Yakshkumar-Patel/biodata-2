@@ -159,6 +159,11 @@ section#second-section th {
 @media (max-width: 480px)
 {
 
+
+
+section#second-section .container h3 {
+    text-align: center;
+}
 .col-lg-2.col-sm-12 {
     padding: 0px !important;
 }
